@@ -23,4 +23,4 @@ pillow # for image processing (for QR code generation)
 librosa # for audio processing (for voice recognition)
 resemblyzer # for voice recognition (for speaker verification and identification)    
 
-autorefresh # for auto refreshing the QR code every 10 seconds
+streamlit-autorefresh # for auto refreshing the QR code every 10 seconds
