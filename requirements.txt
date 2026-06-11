@@ -1,0 +1,26 @@
+streamlit # for web app development (for user interface)
+#UTILITIES
+numpy
+pandas
+
+#FACE RECOGNITION
+scikit-learn # (for svm classification and regression) Face recognition
+dlib-bin # (for face recognition structures (face rectangles, face landmarks, etc.))
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+#DATABASE
+supabase # provide databse for free
+bcrypt # for password hashing (password = !(#$*@#(@)
+
+segno # for QR code generation (for 2FA)
+pillow # for image processing (for QR code generation)
+
+
+
+
+
+librosa # for audio processing (for voice recognition)
+resemblyzer # for voice recognition (for speaker verification and identification)    
+
+autorefresh # for auto refreshing the QR code every 10 seconds
